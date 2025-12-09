@@ -48,3 +48,26 @@ opakuj 360 krát:
 
 ### Program 4
 ![scratch program](ScreenshotScratch.png)
+
+### Program 5
+```pseudo
+i = 420
+opakuj dokud i neni 1:
+    vypis i
+    pokud i delitelne 2:
+        i = i/2
+    jinak:
+        i = 3*i + 1
+vypis i
+```
+```python
+i = 420
+
+while i != 1:
+    print(i)
+    if i % 2 == 0:
+        i /= 2
+    else:
+        i = 3*i + 1
+print(i)
+```

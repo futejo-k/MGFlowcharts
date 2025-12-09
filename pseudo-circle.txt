@@ -1,0 +1,10 @@
+i = 0
+smer = 0
+
+while i < 360:
+	self.forward(100)
+	pen.down()
+	pen.up()
+	self.backwards(100)
+	smer = smer + 1
+

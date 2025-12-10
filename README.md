@@ -1,6 +1,6 @@
 ## Ukoly na flowcharty
-Otevrete [app.diagrams.net](https://app.diagrams.net) a navrhnete vyvojove diagramy pro nasledujici programy.
-Algorimus je vzdy v pseudokodu a pythonu.
+Otevřete [app.diagrams.net](https://app.diagrams.net) a navrhněte vývojové diagramy pro následující programy.
+Algorimus je vždy v pseudokodu a pythonu.
 
 ### Program 1
 ```pseudo

@@ -2,6 +2,8 @@
 Otevřete [app.diagrams.net](https://app.diagrams.net) a navrhněte vývojové diagramy pro následující programy.
 Algorimus je vždy v pseudokodu a pythonu.
 
+![flowchart bubliny](flowchart-bubliny.drawio.png)
+
 ### Program 1
 ```pseudo
 i = 1
